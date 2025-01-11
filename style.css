@@ -220,13 +220,14 @@ nav{
     padding: 20px;
     box-sizing: border-box;
     border: 1px solid rgba(14, 14, 14, 0.15);
-    width: 88%;
+    width: 80%;
 }
 .opinion-items .opinion-item2{
     padding: 20px;
     box-sizing: border-box;
     border: 1px solid rgba(14, 14, 14, 0.15);
-    width: 12%;
+    width: 20%;
+    text-align: center;
 }
 .opinion-items .opinion-item2 .color{
     box-sizing: border-box;
